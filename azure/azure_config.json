@@ -2,6 +2,6 @@
   "num_vms": 1,
   "location": "westeurope",
   "azure_sku": "Standard_NC24rs_v3",
-  "ssh_private_key": "id_rsa",
+  "ssh_private_key": "menyétkulcs",
   "docker_ssh_port": 2222
 }
